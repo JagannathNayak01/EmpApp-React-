@@ -278,7 +278,7 @@ This project is licensed under the [ISC License](https://opensource.org/licenses
 
 ## 👤 Author
 
-**amyansu** — [GitHub Profile](https://github.com/amyansu)
+**Jagannath** — [GitHub Profile](https://github.com/JagannathNayak01)
 
 ---
 
